@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DayDreamScene.unity
+    guid: 5bf4cf9932bd58542aa604ae504849e0
+  - enabled: 1
+    path: Assets/DreamForestTree/DemoScene.unity
+    guid: 6dc68697d72e283438f1cd3bd3441279
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
